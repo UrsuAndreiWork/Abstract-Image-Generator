@@ -1,0 +1,881 @@
+# depslib dependency file v1.0
+1653468897 source:c:\users\bearandrei\documents\codeblocks\proiect\src\button.cpp
+	"Button.h"
+	"SDL.h"
+
+1653468926 c:\users\bearandrei\documents\codeblocks\proiect\include\button.h
+	<string>
+	<iostream>
+	"SDL.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\begin_code.h
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\close_code.h
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1653425037 source:c:\users\bearandrei\documents\codeblocks\proiect\main.cpp
+	<iostream>
+	"SDL.h"
+	"Engine.h"
+
+1653469885 c:\users\bearandrei\documents\codeblocks\proiect\include\engine.h
+	<string>
+	<iostream>
+	"Button.h"
+	"Text.h"
+
+1653425428 c:\users\bearandrei\documents\codeblocks\proiect\include\text.h
+	<string>
+	<iostream>
+	"SDL.h"
+	<SDL_ttf.h>
+
+1641932595 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1653425428 source:c:\users\bearandrei\documents\codeblocks\proiect\src\text.cpp
+	"Text.h"
+
+1653429278 source:c:\users\bearandrei\documents\codeblocks\proiect\src\image.cpp
+	"Image.h"
+	<string.h>
+
+1653425428 c:\users\bearandrei\documents\codeblocks\proiect\include\image.h
+	<fstream>
+	<iostream>
+	<string>
+
+1653473157 source:c:\users\bearandrei\documents\codeblocks\proiect\src\engine.cpp
+	"Engine.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"SDL.h"
+	"Text.h"
+	<fstream>
+	"Image.h"
+	<sstream>
+	<time.h>
+	<math.h>
+	<windows.h>
+
+1561870398 c:\users\bearandrei\documents\codeblocks\proiect\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1653421437 source:c:\users\bearandrei\desktop\proiect\main.cpp
+	<iostream>
+	"SDL.h"
+	"Engine.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\begin_code.h
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\close_code.h
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\bearandrei\desktop\proiect\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\bearandrei\desktop\proiect\include\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1653466285 c:\users\bearandrei\desktop\proiect\include\engine.h
+	<string>
+	<iostream>
+	"Button.h"
+	"Text.h"
+
+1653465326 c:\users\bearandrei\desktop\proiect\include\button.h
+	<string>
+	<iostream>
+	"SDL.h"
+
+1653421828 c:\users\bearandrei\desktop\proiect\include\text.h
+	<string>
+	<iostream>
+	"SDL.h"
+	<SDL_ttf.h>
+
+1641928995 c:\users\bearandrei\desktop\proiect\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1653465297 source:c:\users\bearandrei\desktop\proiect\src\button.cpp
+	"Button.h"
+	"SDL.h"
+
+1653470590 source:c:\users\bearandrei\desktop\proiect\src\engine.cpp
+	"Engine.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"SDL.h"
+	"Text.h"
+	<fstream>
+	"Image.h"
+	<sstream>
+	<time.h>
+	<math.h>
+	<windows.h>
+
+1561866798 c:\users\bearandrei\desktop\proiect\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1653421828 c:\users\bearandrei\desktop\proiect\include\image.h
+	<fstream>
+	<iostream>
+	<string>
+
+1653425678 source:c:\users\bearandrei\desktop\proiect\src\image.cpp
+	"Image.h"
+	<string.h>
+
+1653421828 source:c:\users\bearandrei\desktop\proiect\src\text.cpp
+	"Text.h"
+
